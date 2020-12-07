@@ -1,6 +1,6 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-50 projects created in 50 days for improve HTML, JS and CSS skills.
+50 projects created in 50 days to improve HTML, JS and CSS skills.
 
 ## List of projects
 
