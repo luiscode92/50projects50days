@@ -8,6 +8,7 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/luiscode92/50projects50days/tree/master/expanding-cards)                             |
 | 02  | [Progress Step](https://github.com/luiscode92/50projects50days/tree/master/progress-step)                             |
+| 02  | [Roting Navigation](https://github.com/luiscode92/50projects50days/tree/master/rotating-navigation)                             |
 
 ## Author 
 
